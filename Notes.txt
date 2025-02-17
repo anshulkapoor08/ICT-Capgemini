@@ -1,0 +1,21 @@
+Flask is used when light weight web application is created where django is much more structured and standard toool for deploying heavy application(web application using python).
+
+Django work on MVT model
+MVT: M = Model
+     V = Views
+     T = Templates
+
+getting started with django
+    #Run commands in cmd
+       ->django-admin startproject AssignmentProject
+       ->cd AssignmentProject
+       ->dir
+       ->python manage.py makemigrations
+       ->python manage.py migrate
+       ->python manage.py createsuperuser
+       ->python manage.py runserver
+
+       #Server 
+        ->add user
+        ->add group
+
